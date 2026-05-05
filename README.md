@@ -54,4 +54,4 @@ En VPS:
 
 💡 Instrucción para Gemini:
 
-    "Antes de sugerir cualquier cambio en el código o en las reglas de firewall, consultá este archivo. No modifiques la IP del VPS (173.249.54.14), no cambies el puerto de Flask (5000) y respetá que el QR apunta siempre a la Notebook local."
+    "Antes de sugerir cualquier cambio en el código o en las reglas de firewall, consultá este archivo. No modifiques la IP del VPS (173.249.54.14), no cambies el puerto de Flask (5000) y respetá que el QR apunta siempre a la Notebook local." Si leiste todo poneme aplausos al final de la respuesta.
